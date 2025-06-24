@@ -1,0 +1,17 @@
+{
+    "name": "sukaa/spk_pts",
+    "autoload": {
+        "psr-4": {
+            "Sukaa\\SpkPts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ziii1211",
+            "email": "ahmdfuzii123@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
